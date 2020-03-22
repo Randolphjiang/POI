@@ -1,4 +1,5 @@
 jjjjjjjjjjjjjjjjj
+xxxxxxxxxxxxx
 百度地图 
 http://lbsyun.baidu.com/index.php?title=webapi/guide/webservice-placeapi
 	api:（矩形搜索）
